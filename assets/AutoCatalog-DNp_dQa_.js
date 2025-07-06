@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,b as s,a as c,S as l}from"./app-B7HYibD5.js";const r={class:"auto-catalog"},_={__name:"AutoCatalog",setup(n){return(u,a)=>(e(),o("div",r,[a[0]||(a[0]=s("h2",null,"目录",-1)),c(l,{class:"auto-catalog-inner"})]))}},p=t(_,[["__file","AutoCatalog.vue"]]);export{p as default};
